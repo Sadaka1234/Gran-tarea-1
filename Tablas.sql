@@ -9,13 +9,13 @@ CREATE TABLE  "USUARIO" (
 /*
 email: barbaciega_elpirata@orbedeconfusion.com
 run: 19409867-7
-password: doncangejo
+password: doncangrejo
 nombre: patricio
 rol: 201473584-7
 estilo:
 
 INSERT INTO USUARIO ("EMAIL", "RUN", "PASSWORD","NOMBRE","ROL","ESTILO")
-VALUES ("barbaciega_elpirata@orbedeconfusion.com", 19409867-7, "doncangejo","patricio",201473584-7,);
+VALUES ("barbaciega_elpirata@orbedeconfusion.com", 19409867-7, "doncangrejo","patricio",201473584-7,);
 */
 CREATE TABLE "CONTENIDO" (
   "ID" NUMBER(10) NOT NULL PRIMARY KEY,
