@@ -8,14 +8,14 @@ CREATE TABLE  "USUARIO" (
   )
 /*
 email: barbaciega_elpirata@orbedeconfusion.com
-run: 19409867-7
+run: 1940986
 password: doncangrejo
 nombre: patricio
-rol: 201473584-7
-estilo:
+rol: 20147358
+estilo: 1
 
-INSERT INTO USUARIO ("EMAIL", "RUN", "PASSWORD","NOMBRE","ROL","ESTILO")
-VALUES ("barbaciega_elpirata@orbedeconfusion.com", 19409867-7, "doncangrejo","patricio",201473584-7,);
+INSERT INTO USUARIO (EMAIL, RUN, PASSWORD,NOMBRE,ROL,ESTILO)
+VALUES ("barbaciega_elpirata@orbedeconfusion.com", 1940986, "doncangrejo","patricio",20147358,1);
 */
 CREATE TABLE "CONTENIDO" (
   "ID" NUMBER(10) NOT NULL PRIMARY KEY,
